@@ -2,7 +2,7 @@ main.py
 ```python
 import datetime
 import os
-from py_secure_edge import cf_token
+from cf_secure_edge import cf_token
 
 
 def get_timedelta(str_val = ''):
